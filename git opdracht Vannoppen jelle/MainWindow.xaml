@@ -8,7 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="Gray"> 
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="38" Width="282" RenderTransformOrigin="0.047,0.472" FontSize="30" FontFamily="Arial" Grid.ColumnSpan="2"><Run Language="nl-be" Text="kleurenpsychologie"/></TextBlock>
-        <Image Margin="650,0,0,284" Source="/PXL.png" Stretch="Fill"/>
+        <Image Margin="640,10,10,274" Source="/PXL.png" Stretch="Fill" MouseEnter="pxllogo_MouseEnter" MouseLeave="pxllogo_mouseleave"/>
 
 
 

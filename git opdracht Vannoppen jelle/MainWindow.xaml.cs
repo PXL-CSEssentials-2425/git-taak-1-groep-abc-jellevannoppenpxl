@@ -33,10 +33,30 @@ namespace git_opdracht_Vannoppen_jelle
 
         }
 
-       
+        private void pxllogo_MouseEnter(object sender, MouseEventArgs e)
+
+         {
+            
+        private void pxllogo_mouseleave(object sender, MouseEventArgs e)
+        {
+            
+            
+            
 
 
+        }
 
+        
+        {
+            
+        }
+    
+    
 
-    }
-}
+   
+        
+
+        
+    
+    
+
